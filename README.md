@@ -4,7 +4,7 @@ A Slack script to fetch users from a Workspace.
 
 ## Usage
 ### Install Slack App
-1. Create a [Slack App](https://api.slack.com/apps).
+1. Create a [Slack App](https://api.slack.com/apps){:target="_blank"}.
 2. Within Add feature and functionality >> Permissions >> Scope, add the `users:read` and `users:read:email` permissions and save the changes.
 3. Once the changes are saved, in the same page you can install the app to the workspace.
 Note: You need permissions in the workspace to 'Manage and Install Apps'.
