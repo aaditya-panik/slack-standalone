@@ -1,6 +1,6 @@
 # Slack User-list
 
-A Slack script to fetch users from a Workspace.
+A Python script to fetch users from a  Slack Workspace.
 
 ## Usage
 ### Install Slack App
